@@ -1,0 +1,9 @@
+﻿  lab3algo3.cpp
+C:\Users\Oleksandr\OneDrive\Рабочий стол\lab3algo\lab3algo3\lab3algo3.cpp(9,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Oleksandr\OneDrive\Рабочий стол\lab3algo\lab3algo3\lab3algo3.cpp(20,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Oleksandr\OneDrive\Рабочий стол\lab3algo\lab3algo3\lab3algo3.cpp(26,56): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  lab3algo3.vcxproj -> C:\Users\Oleksandr\OneDrive\Рабочий стол\lab3algo\x64\Debug\lab3algo3.exe

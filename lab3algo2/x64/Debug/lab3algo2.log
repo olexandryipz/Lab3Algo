@@ -1,0 +1,3 @@
+﻿  lab3algo2.cpp
+C:\Users\Oleksandr\OneDrive\Рабочий стол\lab3algo\lab3algo2\lab3algo2.cpp(7,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  lab3algo2.vcxproj -> C:\Users\Oleksandr\OneDrive\Рабочий стол\lab3algo\x64\Debug\lab3algo2.exe
